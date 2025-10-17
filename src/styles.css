@@ -1,0 +1,13 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --skysoft: #EAF6FB;
+  --calmteal: #6AA5A0;
+  --warmneutral: #F7F4EE;
+  --deeptext: #1F2D2E;
+}
+
+body{ font-family: Georgia, serif; color: var(--deeptext); }
